@@ -1,0 +1,13 @@
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\bin\Debug\netcoreapp3.1\IsItALeapyear.exe
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\bin\Debug\netcoreapp3.1\IsItALeapyear.deps.json
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\bin\Debug\netcoreapp3.1\IsItALeapyear.runtimeconfig.json
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\bin\Debug\netcoreapp3.1\IsItALeapyear.runtimeconfig.dev.json
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\bin\Debug\netcoreapp3.1\IsItALeapyear.dll
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\bin\Debug\netcoreapp3.1\IsItALeapyear.pdb
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\obj\Debug\netcoreapp3.1\IsItALeapyear.csproj.AssemblyReference.cache
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\obj\Debug\netcoreapp3.1\IsItALeapyear.AssemblyInfoInputs.cache
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\obj\Debug\netcoreapp3.1\IsItALeapyear.AssemblyInfo.cs
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\obj\Debug\netcoreapp3.1\IsItALeapyear.csproj.CoreCompileInputs.cache
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\obj\Debug\netcoreapp3.1\IsItALeapyear.dll
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\obj\Debug\netcoreapp3.1\IsItALeapyear.pdb
+C:\Users\Mereena\source\repos\IsItALeapyear\IsItALeapyear\obj\Debug\netcoreapp3.1\IsItALeapyear.genruntimeconfig.cache
